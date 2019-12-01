@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fb57a46-9d55-49d3-b471-eef4371c8dd4" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/../bt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/.idea/bt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/html/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.min.js.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UNTxa2yFTLDQ9SUP9MHQY6wwPq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fb57a46-9d55-49d3-b471-eef4371c8dd4" name="Default Changelist" comment="" />
+      <created>1575196300749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575196300749</updated>
+      <workItem from="1575196308076" duration="7333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2" timestamp="1575213297546">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213297546" />
+    <state x="843" y="434" key="Github.ShareDialog" timestamp="1575212842463">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="843" y="434" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575212842463" />
+    <state x="777" y="173" width="422" height="759" key="Github.UntrackedFilesDialog" timestamp="1575211649962">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="777" y="173" width="422" height="759" key="Github.UntrackedFilesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575211649962" />
+    <state x="475" y="187" key="SettingsEditor" timestamp="1575212771398">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575212771398" />
+    <state x="588" y="284" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1575212375706">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="284" width="800" height="536" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575212375706" />
+    <state x="758" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575213233932">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="758" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213233932" />
+    <state x="657" y="252" key="run.anything.popup" timestamp="1575196327027">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="252" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575196327027" />
+  </component>
+</project>
