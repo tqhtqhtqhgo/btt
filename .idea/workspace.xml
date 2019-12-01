@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fb57a46-9d55-49d3-b471-eef4371c8dd4" name="Default Changelist" comment="first">
-      <change afterPath="$PROJECT_DIR$/../bt/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/.idea/bt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/html/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bt/js/bootstrap.min.js.map" afterDir="false" />
+    <list default="true" id="5fb57a46-9d55-49d3-b471-eef4371c8dd4" name="Default Changelist" comment="3">
+      <change afterPath="$PROJECT_DIR$/../bt/html/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bt/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -89,8 +63,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575196300749</updated>
-      <workItem from="1575196308076" duration="7333000" />
+      <workItem from="1575196308076" duration="7860000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1575213369303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575213369303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1575213474134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575213474134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,33 +101,39 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2" timestamp="1575213463706">
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2" timestamp="1575213825262">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213463706" />
-    <state x="843" y="434" key="Github.ShareDialog" timestamp="1575212842463">
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213825262" />
+    <state x="843" y="434" key="Github.ShareDialog" timestamp="1575213881012">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="843" y="434" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575212842463" />
+    <state x="843" y="434" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575213881012" />
     <state x="777" y="173" width="422" height="759" key="Github.UntrackedFilesDialog" timestamp="1575211649962">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="777" y="173" width="422" height="759" key="Github.UntrackedFilesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575211649962" />
-    <state x="475" y="187" key="SettingsEditor" timestamp="1575212771398">
+    <state x="475" y="187" key="SettingsEditor" timestamp="1575213773408">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575212771398" />
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575213773408" />
     <state x="588" y="284" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1575212375706">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="284" width="800" height="536" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575212375706" />
-    <state x="758" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575213233932">
+    <state x="758" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575213529949">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="758" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213233932" />
+    <state x="758" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213529949" />
+    <state x="749" y="322" width="478" height="460" key="git4idea.merge.GitPullDialog" timestamp="1575213589012">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="749" y="322" width="478" height="460" key="git4idea.merge.GitPullDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575213589012" />
     <state x="657" y="252" key="run.anything.popup" timestamp="1575196327027">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
