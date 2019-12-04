@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fb57a46-9d55-49d3-b471-eef4371c8dd4" name="Default Changelist" comment="3">
-      <change afterPath="$PROJECT_DIR$/../bt/html/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bt/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5fb57a46-9d55-49d3-b471-eef4371c8dd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -63,7 +65,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575196300749</updated>
-      <workItem from="1575196308076" duration="7860000" />
+      <workItem from="1575196308076" duration="8126000" />
+      <workItem from="1575276548213" duration="2357000" />
+      <workItem from="1575432866321" duration="1077000" />
+      <workItem from="1575434409520" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1575213369303</created>
@@ -79,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575213474134</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3">
+      <created>1575213996219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575213996219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +102,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -106,10 +120,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2" timestamp="1575213825262">
+    <state x="676" y="273" width="624" height="559" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575433921112">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213825262" />
+    <state x="676" y="273" width="624" height="559" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575433921112" />
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2" timestamp="1575213996167">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575213996167" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575434556004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1575434556004" />
     <state x="843" y="434" key="Github.ShareDialog" timestamp="1575213881012">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -118,10 +140,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="777" y="173" width="422" height="759" key="Github.UntrackedFilesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575211649962" />
-    <state x="475" y="187" key="SettingsEditor" timestamp="1575213773408">
+    <state x="475" y="187" key="SettingsEditor" timestamp="1575434542388">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575213773408" />
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575434542388" />
     <state x="588" y="284" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1575212375706">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
