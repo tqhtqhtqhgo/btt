@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fb57a46-9d55-49d3-b471-eef4371c8dd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <workItem from="1575196308076" duration="8126000" />
       <workItem from="1575276548213" duration="2357000" />
       <workItem from="1575432866321" duration="1077000" />
-      <workItem from="1575434409520" duration="1430000" />
+      <workItem from="1575434409520" duration="1743000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1575213369303</created>
@@ -91,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575213996219</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4">
+      <created>1575448799334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575448799334</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sssss">
+      <created>1575449163296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575449163296</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,17 +129,19 @@
     <MESSAGE value="first" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <MESSAGE value="sssss" />
+    <option name="LAST_COMMIT_MESSAGE" value="sssss" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="273" width="624" height="559" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575433921112">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="676" y="273" width="624" height="559" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575433921112" />
-    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2" timestamp="1575448799207">
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2" timestamp="1575449163122">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575448799207" />
+    <state x="553" y="54" width="871" height="996" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575449163122" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575434556004">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
